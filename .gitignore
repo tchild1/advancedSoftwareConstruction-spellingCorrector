@@ -1,0 +1,8 @@
+# IntelliJ IDEA
+.idea/
+
+# Compiled class files
+target/
+
+# Windows
+Thumbs.db
