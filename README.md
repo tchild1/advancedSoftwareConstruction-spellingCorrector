@@ -1,0 +1,1 @@
+# advancedSoftwareConstruction-spellingCorrector
